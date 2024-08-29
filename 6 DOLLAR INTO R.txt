@@ -1,5 +1,5 @@
 /* (6)WAP to convert dollar into rupees
-ID : 23BCA299*/
+ID : 23BCA296*/
 
 #include<iostream.h>
 #include<conio.h>
